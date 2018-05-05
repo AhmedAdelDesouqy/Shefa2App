@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shefaa</string>
+    <string name="login_screen_id_hint">ID Number</string>
+    <string name="login_screen_password_hint">Password</string>
+    <string name="login_screen_button_sign_in">Sign in</string>
+    <string name="login_screen_forgot_password">Forgot password?</string>
+</resources>
