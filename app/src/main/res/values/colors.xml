@@ -2,8 +2,12 @@
 <resources>
     <color name="colorPrimary">#2BCD6E</color>
     <color name="colorPrimaryDark">#009B41</color>
-    <color name="colorAccent">#E5E8EC</color>
+    <color name="colorAccent">#c4f0d6</color>
+    <color name="colorWhite">#FFFFFF</color>
     <color name="statusBarColor">#16A060</color>
     <color name="textColorGreen">#25C074</color>
     <color name="textColorGrey">#E5E8EC</color>
+    <color name="textColorLightGrey">#E5E8EC</color>
+    <color name="textColorDarkGrey">#6C6C6C</color>
+    <color name="backgroundColorGrey">#F5F5F7</color>
 </resources>
