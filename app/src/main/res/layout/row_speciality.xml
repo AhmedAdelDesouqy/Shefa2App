@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/speciality_container"
+              android:orientation="vertical"
+              android:focusable="true"
+              android:clickable="true"
+              android:layout_width="140dp"
+              android:layout_height="140dp"
+              android:gravity="center"
+              android:layout_marginBottom="24dp"
+              android:layout_marginLeft="24dp"
+              tools:background="@drawable/card1">
+
+    <ImageView
+        android:id="@+id/speciality_logo"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/teeth"
+        />
+
+    <TextView
+        android:id="@+id/speciality_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:lines="2"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorWhite"
+        tools:text="Cardiology"
+        />
+
+</LinearLayout>

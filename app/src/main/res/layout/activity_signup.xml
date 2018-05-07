@@ -160,6 +160,7 @@
         </ScrollView>
 
         <Button
+            android:id="@+id/sign_up_next_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
